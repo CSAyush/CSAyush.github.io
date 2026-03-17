@@ -13,17 +13,29 @@ body {
   background: #f7f7f5;
   position: relative;
 }
-body::before {
+body::before,
+body::after {
   content: "";
   position: fixed;
   inset: 0;
   pointer-events: none;
   z-index: -1;
+}
+body::before {
   background-image: url("/cookie.png");
-  background-size: 62px 62px;
+  background-size: 48px 48px;
   background-repeat: repeat;
   background-position: 0 0;
-  opacity: 0.085;
+  opacity: 0.05;
+  transform: rotate(-8deg);
+}
+body::after {
+  background-image: url("/cookie.png");
+  background-size: 48px 48px;
+  background-repeat: repeat;
+  background-position: 30px 40px;
+  opacity: 0.025;
+  transform: rotate(12deg);
 }
 
 a {
