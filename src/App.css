@@ -20,7 +20,7 @@ body::before {
   pointer-events: none;
   z-index: -1;
   background-image: url("/cookie.png");
-  background-size: 48px 48px;
+  background-size: 62px 62px;
   background-repeat: repeat;
   background-position: 0 0;
   opacity: 0.085;
