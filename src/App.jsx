@@ -75,6 +75,7 @@ export default function App() {
           <section id="about" className="intro">
             <div className="intro-left">
             <img src={profile} alt="Ayush Mahale" className="profile-img" />
+            <p className="image-caption">Busted... Cookie Monster</p>
             </div>
 
             <div className="intro-right">
