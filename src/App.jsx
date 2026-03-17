@@ -90,7 +90,7 @@ export default function App() {
 
               <p>
               I previously interned at SciFin Inc., where I worked on building ELT data pipelines and data infrastructure, gaining experience with scalable systems and data engineering workflows.
-              I also interned at HSBC, where I focused on finance, investment banking, venture capital, and asset management. As part of the internship, I developed financial models for an online gaming company, Skillz, and pitched to HSBC’s Head of Business Model Innovation, Peter Dingle.
+              I also interned at HSBC, focusing on investment banking and asset management. As part of the internship, I developed financial models for an online gaming company, Skillz, and pitched to HSBC’s Head of Business Model Innovation, Peter Dingle.
               </p>
             </div>
           </section>
