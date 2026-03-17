@@ -314,3 +314,11 @@ a {
     font-size: 16px;
   }
 }
+
+.image-caption {
+  margin-top: 6px;
+  font-size: 12px;
+  color: #9ca3af;
+  text-align: center;
+  width: 100%;
+}
