@@ -23,7 +23,7 @@ body::before {
   background-size: 62px 62px;
   background-repeat: repeat;
   background-position: 0 0;
-  opacity: 0.095;
+  opacity: 0.15;
 }
 
 a {
