@@ -36,9 +36,11 @@ export default function App() {
         "CS 61A — Intro to CS",
         "CS 61B — Algorithms & Data Structures",
         "CS 61C — Computer Architecture & Machine Structures",
+        "CS 180 — Computer Vision",
         "CS 184 — Computer Graphics",
         "CS 189 — Machine Learning",
         "CS 294 — Graduate Network Theory",
+        "EECS 183 —  Natural Language Processing",
         "DATA C100 — Principles of Data Science",
       ],
     },
@@ -81,7 +83,7 @@ export default function App() {
             <div className="intro-right">
               <h1>About Me</h1>
               <p>
-              Hi, I’m Ayush Mahale, a junior at UC Berkeley majoring in Computer Science and Statistics (GPA: 3.904).
+              Hi, I’m Ayush Mahale, a rising senior at UC Berkeley majoring in Computer Science and Statistics.
               </p>
 
               <p>
@@ -89,7 +91,7 @@ export default function App() {
               </p>
 
               <p>
-              I previously interned at SciFin Inc., where I worked on building ELT data pipelines and data infrastructure, gaining experience with scalable systems and data engineering workflows.
+              I'm spending the summer as an Agentic AI SWE intern at Nutanix, where I'm working at the intersection of AI infrastructure and enterprise software. Previously, I interned at SciFin Inc., where I worked on building ELT data pipelines and data infrastructure, gaining experience with scalable systems and data engineering workflows.
               I also interned at HSBC, focusing on investment banking and asset management. As part of the internship, I developed financial models for an online gaming company, Skillz, and pitched to HSBC’s Head of Business Model Innovation, Peter Dingle.
               </p>
             </div>
