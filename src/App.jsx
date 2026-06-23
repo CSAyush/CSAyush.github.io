@@ -91,7 +91,7 @@ export default function App() {
               </p>
 
               <p>
-              I'm spending the summer as an Agentic AI SWE intern at Nutanix, where I'm working at the intersection of AI infrastructure and enterprise software. Previously, I interned at SciFin Inc., where I worked on building ELT data pipelines and data infrastructure, gaining experience with scalable systems and data engineering workflows.
+              I'm spending the summer as an Agentic AI MTS intern at Nutanix, where I'm working at the intersection of AI infrastructure and enterprise software. Previously, I interned at SciFin Inc., where I worked on building ELT data pipelines and data infrastructure, gaining experience with scalable systems and data engineering workflows.
               I also interned at HSBC, focusing on investment banking and asset management. As part of the internship, I developed financial models for an online gaming company, Skillz, and pitched to HSBC’s Head of Business Model Innovation, Peter Dingle.
               </p>
             </div>
