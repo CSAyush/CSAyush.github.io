@@ -157,7 +157,7 @@ export default function App() {
           </a>
 
          <a
-         href="https://www.linkedin.com/in/ayush-mahale-1826b5238/"
+         href="https://www.linkedin.com/in/ayush-mahale/"
          target="_blank"
          rel="noreferrer"
           className="contact-link"
